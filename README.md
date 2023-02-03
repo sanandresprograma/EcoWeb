@@ -1,4 +1,4 @@
-Proyecto final para el diplomado en Programación Web dictado por la Universidad de Antioquia.
+Proyecto final para el diplomado en Programación Web dictado por la Universidad de Antioquia en colaboración con el MINTIC.
 
 Este proyecto es un portal web que comercializar elementos de reciclaje, donde las fabricas pueden comprar estos insumos por medio de la página.
 
